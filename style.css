@@ -5,6 +5,7 @@ h1 {
     color: rgb(38, 86, 176);
     background-color: rgb(93, 213, 66);
     transition: .5s;
+ 
 }
 h1:hover{
     background-color: rgb(46, 194, 211);
@@ -16,4 +17,7 @@ h1:hover{
     margin-left: 40px;
     padding: 20px;
     letter-spacing: 2px;
+}
+body{
+    background-color: rgba(215, 152, 70, 0.718);
 }
